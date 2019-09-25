@@ -1,5 +1,5 @@
 # Blender
-Scripts written for CPSC 479: Advanced Computer Graphics. These scripts can be uploaded into Blender and used to procedurally create models and animations. I created these scripts for my final project to show that I understood these techniques well enough to implement them myself.
+Scripts written for CPSC 479: Advanced Computer Graphics. These scripts can be uploaded into Blender and used to procedurally create models and animations. I created these scripts for my final project to show that I understood these techniques well enough to implement them myself. See video here: https://youtu.be/_yVD4_2ke1Q
 
 ## Procedural Modeling:
 
